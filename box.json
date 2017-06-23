@@ -24,6 +24,10 @@
             "version": ">=4.1.x"
         },
         {
+            "type": "lucee",
+            "version": ">=4.5.x"
+        },
+        {
             "type": "adobe",
             "version": ">=9.0.0"
         }
